@@ -1,0 +1,16 @@
+C:\Users\Spyros\source\repos\GeneratePdf\GeneratePdf\bin\Debug\netcoreapp2.1\GeneratePdf.deps.json
+C:\Users\Spyros\source\repos\GeneratePdf\GeneratePdf\bin\Debug\netcoreapp2.1\GeneratePdf.runtimeconfig.json
+C:\Users\Spyros\source\repos\GeneratePdf\GeneratePdf\bin\Debug\netcoreapp2.1\GeneratePdf.runtimeconfig.dev.json
+C:\Users\Spyros\source\repos\GeneratePdf\GeneratePdf\bin\Debug\netcoreapp2.1\GeneratePdf.dll
+C:\Users\Spyros\source\repos\GeneratePdf\GeneratePdf\obj\Debug\netcoreapp2.1\GeneratePdf.csproj.CoreCompileInputs.cache
+C:\Users\Spyros\source\repos\GeneratePdf\GeneratePdf\obj\Debug\netcoreapp2.1\GeneratePdf.RazorAssemblyInfo.cache
+C:\Users\Spyros\source\repos\GeneratePdf\GeneratePdf\obj\Debug\netcoreapp2.1\GeneratePdf.RazorAssemblyInfo.cs
+C:\Users\Spyros\source\repos\GeneratePdf\GeneratePdf\obj\Debug\netcoreapp2.1\GeneratePdf.AssemblyInfoInputs.cache
+C:\Users\Spyros\source\repos\GeneratePdf\GeneratePdf\obj\Debug\netcoreapp2.1\GeneratePdf.AssemblyInfo.cs
+C:\Users\Spyros\source\repos\GeneratePdf\GeneratePdf\obj\Debug\netcoreapp2.1\GeneratePdf.RazorTargetAssemblyInfo.cache
+C:\Users\Spyros\source\repos\GeneratePdf\GeneratePdf\bin\Debug\netcoreapp2.1\GeneratePdf.pdb
+C:\Users\Spyros\source\repos\GeneratePdf\GeneratePdf\obj\Debug\netcoreapp2.1\GeneratePdf.dll
+C:\Users\Spyros\source\repos\GeneratePdf\GeneratePdf\obj\Debug\netcoreapp2.1\GeneratePdf.pdb
+C:\Users\Spyros\source\repos\GeneratePdf\GeneratePdf\bin\Debug\netcoreapp2.1\libwkhtmltox.dll
+C:\Users\Spyros\source\repos\GeneratePdf\GeneratePdf\bin\Debug\netcoreapp2.1\libwkhtmltox.dylib
+C:\Users\Spyros\source\repos\GeneratePdf\GeneratePdf\bin\Debug\netcoreapp2.1\libwkhtmltox.so
